@@ -1,91 +1,108 @@
 <div align="center">
 
-<!-- Royal Emerald & Gold Animated Waving Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=011F18,022C22,064E3B,047857,0D9488,10B981,D4AF37,10B981,047857,064E3B,011F18&height=230&section=header&text=Mahfuz%20Hasan&fontSize=50&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=%E2%9C%A8%20Full-Stack%20Architect%20%E2%80%A2%20Frontend%20Engineer%20%E2%80%A2%20Open-Source%20Builder%20%E2%9C%A8&descColor=FDE68A&descAlignY=58&descAlign=50" width="100%" alt="Royal Emerald & Gold Banner" />
+  <!-- Dynamic Animated Header Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=030712,064E3B,047857,0D9488,10B981,F59E0B,D4AF37,10B981,047857,064E3B,030712&height=240&section=header&text=Mahfuz%20Hasan&fontSize=48&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=%F0%9F%9A%80%20Full-Stack%20Software%20Engineer%20%7C%20Frontend%20Architect%20%7C%20AI%20Enthusiast&descColor=ECFDF5&descAlignY=58&descAlign=50" width="100%" alt="Mahfuz Hasan Banner" />
 
-<!-- Dynamic Animated Typing Terminal Subtitle in Imperial Gold with Royal Emerald Background -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel,Fira+Code,monospace&weight=700&size=24&pause=1000&color=FFD700&background=022C22&center=true&vCenter=true&width=660&height=55&lines=const+developer+%3D+%22Mahfuz+Hasan%22%3B;%F0%9F%91%91+Architecting+Royal-Class+Digital+Experiences;%E2%9C%A8+TypeScript+%E2%80%A2+Next.js+%E2%80%A2+React+%E2%80%A2+Python;%F0%9F%A7%A0+Building+Modern+Web+Apps+%26+Intelligent+AI;%F0%9F%8F%86+Transforming+Complex+Logic+into+Pure+Elegance" alt="Imperial Gold Typing SVG on Emerald" />
-</a>
+  <!-- Animated Typing SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=F59E0B&background=03071200&center=true&vCenter=true&width=680&height=52&lines=console.log(%22Hello%2C%20World!%20%F0%9F%91%8B%22)%3B;Full-Stack%20Engineer%20%7C%20React%20%26%20Next.js%20Specialist;Building%20Pixel-Perfect%2C%20Scalable%20Web%20Applications;Transforming%20Complex%20Problems%20Into%20Clean%20Solutions;Driven%20by%20Innovation%20%7C%20Lifelong%20Learner" alt="Typing SVG" />
+  </a>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPEN%20FOR%20COLLABORATION-064e3b?style=for-the-badge&logo=crown&logoColor=D4AF37&labelColor=022c22" alt="Status Badge"/>
-  <img src="https://komarev.com/ghpvc/?username=mahfuzhasan2700&label=ROYAL+VISITORS&style=for-the-badge&color=d4af37" alt="Profile Views"/>
-  <a href="https://github.com/mahfuzhasan2700?tab=followers"><img src="https://img.shields.io/github/followers/mahfuzhasan2700?label=FOLLOWERS&style=for-the-badge&color=047857&logo=github&logoColor=D4AF37" alt="Followers"/></a>
-  <a href="https://github.com/mahfuzhasan2700?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-8%20ACTIVE-D4AF37?style=for-the-badge&logo=git&logoColor=022c22" alt="Repositories"/></a>
-</p>
-
----
+  <!-- Animated Badges & Quick Counters -->
+  <p align="center">
+    <a href="https://github.com/mahfuzhasan2700">
+      <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-10B981?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=064e3b" alt="Status" />
+    </a>
+    <a href="https://komarev.com/ghpvc/?username=mahfuzhasan2700&label=PROFILE+VIEWS&style=for-the-badge&color=D4AF37">
+      <img src="https://komarev.com/ghpvc/?username=mahfuzhasan2700&label=PROFILE+VIEWS&style=for-the-badge&color=D4AF37" alt="Profile Views" />
+    </a>
+    <a href="https://github.com/mahfuzhasan2700?tab=followers">
+      <img src="https://img.shields.io/github/followers/mahfuzhasan2700?label=FOLLOWERS&style=for-the-badge&color=0D9488&logo=github&logoColor=white&labelColor=047857" alt="Followers" />
+    </a>
+    <a href="https://github.com/mahfuzhasan2700?tab=repositories">
+      <img src="https://img.shields.io/badge/REPOSITORIES-8%20ACTIVE-F59E0B?style=for-the-badge&logo=git&logoColor=white&labelColor=022c22" alt="Repositories" />
+    </a>
+    <img src="https://img.shields.io/badge/LOCATION-BANGLADESH-0284C7?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=082F49" alt="Location" />
+  </p>
 
 </div>
 
-<img align="right" alt="Coding Developer Animation" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="370"/>
+---
 
-## 👑 Executive Profile
+### 💫 About Me
 
-Greetings! I am **Mahfuz Hasan**, a dedicated **Software Engineer** specializing in the intersection of robust backend logic, high-precision frontend architecture, and modern artificial intelligence. 
-
-I hold software craft to the highest standards—striving for the resilience of **deep emerald** systems and the flawless radiance of **golden** user experiences.
-
-### ⚜️ Strategic Highlights:
-- 🔭 &nbsp; **Core Engineering**: Architecting enterprise-grade web applications with **TypeScript**, **Next.js**, and reactive frameworks.
-- ⚡ &nbsp; **Active Initiative**: Developing high-performance, strictly typed components in [`Assignment-6`](https://github.com/mahfuzhasan2700/Assignment-6).
-- 🤖 &nbsp; **AI & Automation**: Building intelligent assistant engines and modular automation in [`Perseus_AI`](https://github.com/mahfuzhasan2700/Perseus_AI).
-- 💰 &nbsp; **FinTech & Analytics**: Engineering personal finance tracking and capital visualization in [`Amar_Finance`](https://github.com/mahfuzhasan2700/Amar_Finance).
-- 🎯 &nbsp; **Simulation Science**: Modeling ballistic math and real-time trajectory physics in [`artillery-laying-simulator`](https://github.com/mahfuzhasan2700/artillery-laying-simulator).
-- 💬 &nbsp; **Core Discussions**: Web Architecture, Type Safety, Scalable UI/UX, Performance Optimization.
-- 📫 &nbsp; **Collaborations**: Open for high-impact engineering roles, technical advisory, and open-source innovations.
-
-<br clear="right"/>
+<table>
+  <tr>
+    <td width="62%" valign="top">
+      <p>
+        Hi there! I am <strong>Mahfuz Hasan</strong>, a results-oriented <strong>Full-Stack Software Engineer</strong> with a deep passion for crafting high-performance, user-centric web applications and elegant software architectures.
+      </p>
+      <p>
+        My core expertise spans the modern <strong>JavaScript/TypeScript ecosystem</strong>, focusing on <strong>Next.js</strong>, <strong>React</strong>, <strong>Node.js</strong>, and modern UI engineering, combined with backend integration and physics/algorithmic simulations. I believe in writing readable, maintainable, and strictly typed code that scales seamlessly.
+      </p>
+      <ul>
+        <li>🔭 <strong>Current Initiatives</strong>: Building interactive, high-performance web systems with <strong>Next.js & TypeScript</strong>.</li>
+        <li>⚡ <strong>Active Projects</strong>: Developing responsive, accessible full-stack interfaces in <a href="https://github.com/mahfuzhasan2700/Assignment-6"><code>Assignment-6</code></a> and real-time budgeting in <a href="https://github.com/mahfuzhasan2700/Amar_Finance"><code>Amar_Finance</code></a>.</li>
+        <li>🤖 <strong>AI & Exploration</strong>: Designing modular automated agents and intelligent tooling in <a href="https://github.com/mahfuzhasan2700/Perseus_AI"><code>Perseus_AI</code></a>.</li>
+        <li>🎯 <strong>Simulation & Graphics</strong>: Implementing vector ballistic mathematics and interactive canvas rendering in <a href="https://github.com/mahfuzhasan2700/artillery-laying-simulator"><code>artillery-laying-simulator</code></a>.</li>
+        <li>🌱 <strong>Lifelong Learning</strong>: Deep diving into Microservices, Cloud Native Patterns, and Full-Stack Performance Tuning.</li>
+        <li>💬 <strong>Ask Me About</strong>: React, State Management, Responsive Design, TypeScript, Clean Code Architecture.</li>
+        <li>📫 <strong>How to Reach Me</strong>: Drop an email at <a href="mailto:mahfuzhasan2700@gmail.com"><strong>mahfuzhasan2700@gmail.com</strong></a> or connect on <a href="https://linkedin.com/in/mahfuzhasan2700"><strong>LinkedIn</strong></a>.</li>
+      </ul>
+    </td>
+    <td width="38%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Coding Animation" style="border-radius: 12px;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Royal Tech Stack & Tooling
+### 🛠️ Tech Stack & Technical Arsenal
 
 <div align="center">
-  <p><b>✨ Interactive Technologies & Core Skills</b></p>
+  <p><b>⚡ Dynamic Tech Stack Matrix</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,py,html,css,react,nextjs,tailwind,bootstrap,nodejs,express,git,github,vscode,postman,vite&theme=dark" alt="Skill Icons Matrix" />
+    <img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,html,css,tailwind,bootstrap,nodejs,express,vite,git,github,vscode,postman&theme=dark" alt="Skill Icons Matrix" />
   </a>
 </div>
 
 <br/>
 
-<table align="center" width="100%">
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>💻 Programming Languages</h3>
+      <h4>💻 Languages & Frameworks</h4>
       <p>
-        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=FFD700" />
-        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=022C22" />
-        <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD700" />
-        <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
       </p>
-      <h3>🌐 Frontend & UI Architecture</h3>
+      <h4>🌐 Frontend Architecture & Design</h4>
       <p>
-        <img alt="React" src="https://img.shields.io/badge/React-022C22?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=D4AF37" />
-        <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-064E3B?style=flat-square&logo=tailwind-css&logoColor=38BDF8" />
-        <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
-        <img alt="Responsive Design" src="https://img.shields.io/badge/Responsive_Design-047857?style=flat-square&logo=googlechrome&logoColor=FFD700" />
+        <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚙️ Backend & Architecture</h3>
+      <h4>⚙️ Backend & Architecture</h4>
       <p>
-        <img alt="Node.js" src="https://img.shields.io/badge/Node.js-064E3B?style=flat-square&logo=node.js&logoColor=339933" />
-        <img alt="Express" src="https://img.shields.io/badge/Express.js-022C22?style=flat-square&logo=express&logoColor=D4AF37" />
-        <img alt="RESTful APIs" src="https://img.shields.io/badge/REST_APIs-047857?style=flat-square&logo=fastapi&logoColor=white" />
-        <img alt="JSON" src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=D4AF37" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+        <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+        <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
       </p>
-      <h3>🧰 Developer Tools & Workflow</h3>
+      <h4>🧰 Developer Tools & Platforms</h4>
       <p>
-        <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-022C22?style=flat-square&logo=github&logoColor=D4AF37" />
-        <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-        <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-        <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=FFD700" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
       </p>
     </td>
   </tr>
@@ -93,125 +110,187 @@ I hold software craft to the highest standards—striving for the resilience of 
 
 ---
 
-## 🏛️ Royal Featured Projects & Repositories
+### 🚀 Featured Pinned Projects
 
 <table width="100%">
-  <thead align="center">
-    <tr>
-      <td><b>⚜️ Project</b></td>
-      <td><b>Tech Stack</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull Requests</b></td>
+  <thead>
+    <tr align="left">
+      <th width="35%">Repository & Overview</th>
+      <th width="30%">Core Technologies</th>
+      <th width="20%">Key Highlights</th>
+      <th width="15%">Links</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
-        <a href="https://github.com/mahfuzhasan2700/Assignment-6"><b>⚡ Assignment-6</b></a><br/>
-        <sub>High-performance interactive web application built with strict TypeScript types and modular components.</sub>
+        <a href="https://github.com/mahfuzhasan2700/Assignment-6"><b>⚡ Assignment-6</b></a>
+        <br/>
+        <sub>Modern interactive web platform engineered with strict TypeScript typing, modular state components, and dynamic UI rendering.</sub>
       </td>
-      <td><code>TypeScript</code> <code>Modern Web</code></td>
-      <td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/mahfuzhasan2700/Assignment-6?style=flat-square&color=D4AF37&labelColor=022C22"/></td>
-      <td align="center"><img alt="Forks" src="https://img.shields.io/github/forks/mahfuzhasan2700/Assignment-6?style=flat-square&color=047857&labelColor=022C22"/></td>
-      <td align="center"><img alt="Issues" src="https://img.shields.io/github/issues/mahfuzhasan2700/Assignment-6?style=flat-square&color=F59E0B&labelColor=022C22"/></td>
-      <td align="center"><img alt="PRs" src="https://img.shields.io/github/issues-pr/mahfuzhasan2700/Assignment-6?style=flat-square&color=10B981&labelColor=022C22"/></td>
+      <td>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS" />
+        <img src="https://img.shields.io/badge/Modern_Web-0D9488?style=flat-square" alt="Web" />
+      </td>
+      <td>
+        • Strict Type Safety<br/>
+        • Modular Component Hierarchy<br/>
+        • Optimized Performance
+      </td>
+      <td align="center">
+        <a href="https://github.com/mahfuzhasan2700/Assignment-6">
+          <img src="https://img.shields.io/badge/View-Repo-064e3b?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+        </a>
+      </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/mahfuzhasan2700/Perseus_AI"><b>🤖 Perseus_AI</b></a><br/>
-        <sub>Intelligent automation toolkit and AI agent framework engineered for workflow acceleration.</sub>
+        <a href="https://github.com/mahfuzhasan2700/Perseus_AI"><b>🤖 Perseus_AI</b></a>
+        <br/>
+        <sub>Intelligent automation toolkit and agent framework designed for developer workflow efficiency and automated task flows.</sub>
       </td>
-      <td><code>Python</code> <code>AI / ML</code></td>
-      <td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/mahfuzhasan2700/Perseus_AI?style=flat-square&color=D4AF37&labelColor=022C22"/></td>
-      <td align="center"><img alt="Forks" src="https://img.shields.io/github/forks/mahfuzhasan2700/Perseus_AI?style=flat-square&color=047857&labelColor=022C22"/></td>
-      <td align="center"><img alt="Issues" src="https://img.shields.io/github/issues/mahfuzhasan2700/Perseus_AI?style=flat-square&color=F59E0B&labelColor=022C22"/></td>
-      <td align="center"><img alt="PRs" src="https://img.shields.io/github/issues-pr/mahfuzhasan2700/Perseus_AI?style=flat-square&color=10B981&labelColor=022C22"/></td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/AI_%26_Automation-10B981?style=flat-square" alt="AI" />
+      </td>
+      <td>
+        • Modular Agent Logic<br/>
+        • Automated Task Pipeline<br/>
+        • Pythonic Architecture
+      </td>
+      <td align="center">
+        <a href="https://github.com/mahfuzhasan2700/Perseus_AI">
+          <img src="https://img.shields.io/badge/View-Repo-064e3b?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+        </a>
+      </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/mahfuzhasan2700/Amar_Finance"><b>💰 Amar_Finance</b></a><br/>
-        <sub>Personal and commercial wealth tracking utility designed for real-time budgeting clarity.</sub>
+        <a href="https://github.com/mahfuzhasan2700/Amar_Finance"><b>💰 Amar_Finance</b></a>
+        <br/>
+        <sub>Intuitive personal financial management application designed for tracking transactions, income, expense analytics, and budgets.</sub>
       </td>
-      <td><code>JavaScript</code> <code>CSS3</code></td>
-      <td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/mahfuzhasan2700/Amar_Finance?style=flat-square&color=D4AF37&labelColor=022C22"/></td>
-      <td align="center"><img alt="Forks" src="https://img.shields.io/github/forks/mahfuzhasan2700/Amar_Finance?style=flat-square&color=047857&labelColor=022C22"/></td>
-      <td align="center"><img alt="Issues" src="https://img.shields.io/github/issues/mahfuzhasan2700/Amar_Finance?style=flat-square&color=F59E0B&labelColor=022C22"/></td>
-      <td align="center"><img alt="PRs" src="https://img.shields.io/github/issues-pr/mahfuzhasan2700/Amar_Finance?style=flat-square&color=10B981&labelColor=022C22"/></td>
+      <td>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+      </td>
+      <td>
+        • Dynamic Expense Analytics<br/>
+        • Clean Responsive Dashboard<br/>
+        • Real-Time Computation
+      </td>
+      <td align="center">
+        <a href="https://github.com/mahfuzhasan2700/Amar_Finance">
+          <img src="https://img.shields.io/badge/View-Repo-064e3b?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+        </a>
+      </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/mahfuzhasan2700/artillery-laying-simulator"><b>🎯 Artillery Laying Simulator</b></a><br/>
-        <sub>Physics trajectory computation engine simulating projectile dynamics on an interactive HTML5 canvas.</sub>
+        <a href="https://github.com/mahfuzhasan2700/artillery-laying-simulator"><b>🎯 Artillery Laying Simulator</b></a>
+        <br/>
+        <sub>Interactive simulation engine modeling 2D ballistic physics, parabolic trajectories, and trigonometric firing vectors.</sub>
       </td>
-      <td><code>JavaScript</code> <code>Canvas API</code></td>
-      <td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/mahfuzhasan2700/artillery-laying-simulator?style=flat-square&color=D4AF37&labelColor=022C22"/></td>
-      <td align="center"><img alt="Forks" src="https://img.shields.io/github/forks/mahfuzhasan2700/artillery-laying-simulator?style=flat-square&color=047857&labelColor=022C22"/></td>
-      <td align="center"><img alt="Issues" src="https://img.shields.io/github/issues/mahfuzhasan2700/artillery-laying-simulator?style=flat-square&color=F59E0B&labelColor=022C22"/></td>
-      <td align="center"><img alt="PRs" src="https://img.shields.io/github/issues-pr/mahfuzhasan2700/artillery-laying-simulator?style=flat-square&color=10B981&labelColor=022C22"/></td>
+      <td>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+        <img src="https://img.shields.io/badge/Canvas_API-E34F26?style=flat-square&logo=html5&logoColor=white" alt="Canvas" />
+      </td>
+      <td>
+        • Physics Trajectory Formulae<br/>
+        • Real-Time HTML5 Canvas<br/>
+        • Trigonometric Modeling
+      </td>
+      <td align="center">
+        <a href="https://github.com/mahfuzhasan2700/artillery-laying-simulator">
+          <img src="https://img.shields.io/badge/View-Repo-064e3b?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+        </a>
+      </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/mahfuzhasan2700/Portfolio-Website"><b>🌐 Personal Portfolio Website</b></a><br/>
-        <sub>Responsive developer showcase featuring personal engineering projects, tech stack, and experience.</sub>
+        <a href="https://github.com/mahfuzhasan2700/Portfolio-Website"><b>🌐 Personal Portfolio Website</b></a>
+        <br/>
+        <sub>Responsive personal portfolio showcasing technical competencies, projects, and contact channels with polished aesthetics.</sub>
       </td>
-      <td><code>HTML5</code> <code>CSS3</code> <code>JS</code></td>
-      <td align="center"><img alt="Stars" src="https://img.shields.io/github/stars/mahfuzhasan2700/Portfolio-Website?style=flat-square&color=D4AF37&labelColor=022C22"/></td>
-      <td align="center"><img alt="Forks" src="https://img.shields.io/github/forks/mahfuzhasan2700/Portfolio-Website?style=flat-square&color=047857&labelColor=022C22"/></td>
-      <td align="center"><img alt="Issues" src="https://img.shields.io/github/issues/mahfuzhasan2700/Portfolio-Website?style=flat-square&color=F59E0B&labelColor=022C22"/></td>
-      <td align="center"><img alt="PRs" src="https://img.shields.io/github/issues-pr/mahfuzhasan2700/Portfolio-Website?style=flat-square&color=10B981&labelColor=022C22"/></td>
+      <td>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+      </td>
+      <td>
+        • Fully Responsive Layout<br/>
+        • Cross-Browser Compatible<br/>
+        • Modern Typography
+      </td>
+      <td align="center">
+        <a href="https://github.com/mahfuzhasan2700/Portfolio-Website">
+          <img src="https://img.shields.io/badge/View-Repo-064e3b?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
 
 ---
 
-## 📊 Live GitHub Analytics Dashboard
+### 📊 Live GitHub Analytics & Performance
 
 <div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://github.com/mahfuzhasan2700">
+          <img src="https://github-readme-stats-fast.vercel.app/api?username=mahfuzhasan2700&show_icons=true&bg_color=030712&title_color=F59E0B&icon_color=10B981&text_color=E5E7EB&border_color=0D9488&border_radius=12&rank_icon=github" alt="Mahfuz's GitHub Stats" />
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://github.com/mahfuzhasan2700">
+          <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mahfuzhasan2700&layout=compact&bg_color=030712&title_color=F59E0B&text_color=E5E7EB&border_color=0D9488&border_radius=12" alt="Top Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
-<table border="0">
-  <tr>
-    <td align="center">
-      <!-- Royal Emerald & Gold Stats Card -->
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=mahfuzhasan2700&show_icons=true&bg_color=022C22&title_color=D4AF37&icon_color=F59E0B&text_color=ECFDF5&border_color=D4AF37&border_radius=10" alt="Mahfuz's GitHub Stats" />
-    </td>
-    <td align="center">
-      <!-- Royal Emerald & Gold Top Languages Card -->
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mahfuzhasan2700&layout=compact&bg_color=022C22&title_color=D4AF37&text_color=ECFDF5&border_color=D4AF37&border_radius=10" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+  <br/>
+
+  <a href="https://github.com/mahfuzhasan2700">
+    <img src="https://streak-stats.demolab.com/?user=mahfuzhasan2700&theme=dark&hide_border=false&border_radius=12&background=030712&border=0D9488&stroke=0D9488&ring=F59E0B&fire=10B981&currStreakNum=F59E0B&currStreakLabel=10B981&sideNums=E5E7EB&sideLabels=0D9488&dates=9CA3AF" alt="GitHub Streak Stats" />
+  </a>
+</div>
 
 <br/>
 
-<!-- Animated Gold & Emerald Streak Card -->
-<img src="https://streak-stats.demolab.com/?user=mahfuzhasan2700&theme=dark&hide_border=false&border_radius=10&background=022C22&border=D4AF37&stroke=D4AF37&ring=D4AF37&fire=F59E0B&currStreakNum=FFD700&currStreakLabel=D4AF37&sideNums=FDE68A&sideLabels=047857&dates=ECFDF5" alt="Royal Streak" />
-
+<!-- Contribution Snake Animation -->
+<div align="center">
+  <h4>🐍 3D Contribution Activity Snake</h4>
+  <img src="https://raw.githubusercontent.com/mahfuzhasan2700/mahfuzhasan2700/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
 </div>
 
 ---
 
-## 📬 Connect & Collaborate
+### 📬 Connect & Collaborate
 
-<p align="center">
-  <a href="https://github.com/mahfuzhasan2700" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-022C22?style=for-the-badge&logo=github&logoColor=D4AF37" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/mahfuzhasan2700" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=022C22" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:mahfuzhasan2700@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-047857?style=for-the-badge&logo=gmail&logoColor=FFD700" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/mahfuzhasan2700/Portfolio-Website" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-064E3B?style=for-the-badge&logo=googlechrome&logoColor=D4AF37" alt="Portfolio"/>
-  </a>
-</p>
-
-<!-- Royal Emerald & Gold Animated Waving Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=011F18,022C22,064E3B,047857,0D9488,10B981,D4AF37,10B981,047857,064E3B,011F18&height=120&section=footer" width="100%" alt="Footer Banner" />
-  <p><sub>⚜️ Crafted with precision & excellence by <a href="https://github.com/mahfuzhasan2700">Mahfuz Hasan</a> • Innovating with Passion ⚜️</sub></p>
+  <p>I am always eager to collaborate on innovative projects, open-source initiatives, and impactful engineering opportunities.</p>
+
+  <p>
+    <a href="https://linkedin.com/in/mahfuzhasan2700" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:mahfuzhasan2700@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://github.com/mahfuzhasan2700" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://github.com/mahfuzhasan2700/Portfolio-Website" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    </a>
+  </p>
+</div>
+
+<!-- Dynamic Animated Footer Wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=030712,064E3B,047857,0D9488,10B981,F59E0B,D4AF37,10B981,047857,064E3B,030712&height=130&section=footer" width="100%" alt="Footer Wave" />
+  <p><sub>⚡ Engineered with precision, passion, and elegance by <strong>Mahfuz Hasan</strong> • Happy Coding! 🚀</sub></p>
 </div>
