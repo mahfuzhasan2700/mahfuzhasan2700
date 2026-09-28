@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 130" width="100%" height="130">
+  <defs>
+    <!-- Royal Emerald Base Gradient -->
+    <linearGradient id="footerEmerald" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#011F18" />
+      <stop offset="30%" stop-color="#022C22" />
+      <stop offset="60%" stop-color="#064E3B" />
+      <stop offset="85%" stop-color="#047857" />
+      <stop offset="100%" stop-color="#011F18" />
+    </linearGradient>
+
+    <!-- Top Wave Gradient -->
+    <linearGradient id="footerWave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#047857" stop-opacity="0.6" />
+      <stop offset="50%" stop-color="#10B981" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#047857" stop-opacity="0.6" />
+    </linearGradient>
+  </defs>
+
+  <!-- Solid Royal Emerald Background -->
+  <rect width="900" height="130" rx="12" fill="url(#footerEmerald)" />
+
+  <!-- Outer Border in Imperial Gold -->
+  <rect width="896" height="126" x="2" y="2" rx="10" fill="none" stroke="#D4AF37" stroke-width="1.5" opacity="0.6" />
+
+  <!-- Animated Top Wave -->
+  <path fill="url(#footerWave)">
+    <animate attributeName="d" dur="10s" repeatCount="indefinite"
+      values="
+        M0,0 L900,0 L900,35 C750,15 600,45 450,25 C300,5 150,40 0,20 Z;
+        M0,0 L900,0 L900,20 C720,40 580,10 430,30 C280,45 140,15 0,35 Z;
+        M0,0 L900,0 L900,35 C750,15 600,45 450,25 C300,5 150,40 0,20 Z
+      " />
+  </path>
+
+  <!-- Footer Signature & Quote in Gold & White -->
+  <text x="50%" y="72" text-anchor="middle" 
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" 
+        font-weight="800" font-size="20" fill="#FFD700" letter-spacing="1.5">
+    ⚜️ CRAFTED WITH PASSION, CODE &amp; ELEGANCE ⚜️
+  </text>
+  <text x="50%" y="102" text-anchor="middle" 
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" 
+        font-weight="500" font-size="14" fill="#ECFDF5" letter-spacing="1">
+    Designed for Mahfuz Hasan • Happy Engineering! 🚀
+  </text>
+</svg>
