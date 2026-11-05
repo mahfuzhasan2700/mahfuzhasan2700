@@ -50,7 +50,7 @@ My engineering philosophy is rooted in <strong>Claude-inspired editorial minimal
 - ⚡ **Reactive State Analytics:** Implementing habit metrics and live telemetry calculators with reactive states in [`Fit-Log`](https://github.com/mahfuzhasan2700/Assignment-6).
 - 🤖 **Agentic AI & Tooling:** Developing autonomous multi-step reasoning agents and tool-calling execution pipelines in [`Perseus_AI`](https://github.com/mahfuzhasan2700/Perseus_AI).
 - 🎯 **Trigonometric Physics Simulators:** Calculating projectile ballistics and vector trajectory arcs at 60FPS on canvas in [`artillery-laying-simulator`](https://github.com/mahfuzhasan2700/artillery-laying-simulator).
-- 📬 **Direct Inquiries:** Available via [mahfuzhasan2700@gmail.com](mailto:mahfuzhasan2700@gmail.com) and on [LinkedIn](https://linkedin.com/in/mahfuzhasan2700).
+- 📬 **Direct Inquiries:** Available via [mahfuzhasan2700@gmail.com](mailto:mahfuzhasan2700@gmail.com) and on [LinkedIn](https://www.linkedin.com/in/mahfuzhasan2700).
 
 <br clear="right" />
 
@@ -343,7 +343,7 @@ My engineering philosophy is rooted in <strong>Claude-inspired editorial minimal
       </td>
       <td align="center" valign="middle">
         <a href="https://github.com/mahfuzhasan2700">
-          <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mahfuzhasan2700&layout=compact&bg_color=121318&title_color=D97757&text_color=ECEAE5&border_color=2D313E&border_radius=12" alt="Top Languages" />
+          <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=mahfuzhasan2700&layout=compact&bg_color=121318&title_color=D97757&text_color=ECEAE5&border_color=2D313E&border_radius=12" alt="Top Languages" />
         </a>
       </td>
     </tr>
@@ -391,7 +391,7 @@ My engineering philosophy is rooted in <strong>Claude-inspired editorial minimal
   <p>I am open to discussions regarding full-stack architecture, distributed systems, open-source initiatives, and high-impact engineering roles.</p>
 
   <p>
-    <a href="https://linkedin.com/in/mahfuzhasan2700" target="_blank">
+    <a href="https://www.linkedin.com/in/mahfuzhasan2700" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:mahfuzhasan2700@gmail.com">
