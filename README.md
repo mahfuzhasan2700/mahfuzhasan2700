@@ -1,10 +1,10 @@
 <div align="center">
 
   <!-- 👑 1. Dedicated Animated Royal Emerald & Imperial Gold Banner (Zero Pink, High Contrast) -->
-  <img src="./header-banner.svg" width="100%" alt="Mahfuz Hasan - Royal Emerald Banner" />
+  <img src="https://raw.githubusercontent.com/mahfuzhasan2700/mahfuzhasan2700/main/header-banner.svg" width="100%" alt="Mahfuz Hasan - Royal Emerald Banner" />
 
   <!-- ⌨️ 2. High-Contrast Terminal Typing SVG (Imperial Gold on Deep Emerald) -->
-  <a href="https://git.io/typing-svg">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=FFD700&background=022C22&center=true&vCenter=true&width=720&height=52&lines=const+engineer+%3D+%22Mahfuz+Hasan%22%3B;%E2%9A%A1+Full-Stack+Developer+%7C+React+%26+Next.js+Specialist;%E2%9C%A8+Architecting+Scalable%2C+High-Performance+Web+Apps;%F0%9F%A7%A0+Exploring+AI+Agent+Frameworks+%26+Automation;%F0%9F%8F%86+Transforming+Complex+Logic+Into+Pure+Elegance" alt="Typing SVG Animation" />
   </a>
 
@@ -28,7 +28,7 @@
 </div>
 
 <!-- ⚜️ Royal Emerald Animated Divider -->
-<img src="./emerald-divider.svg" width="100%" alt="Divider" />
+<img src="https://raw.githubusercontent.com/mahfuzhasan2700/mahfuzhasan2700/main/emerald-divider.svg" width="100%" alt="Divider" />
 
 ---
 
@@ -57,7 +57,7 @@ My engineering philosophy centers on <strong>clean code</strong>, <strong>rigoro
 <br clear="right" />
 
 <!-- ⚜️ Royal Emerald Animated Divider -->
-<img src="./emerald-divider.svg" width="100%" alt="Divider" />
+<img src="https://raw.githubusercontent.com/mahfuzhasan2700/mahfuzhasan2700/main/emerald-divider.svg" width="100%" alt="Divider" />
 
 ---
 
@@ -113,7 +113,7 @@ My engineering philosophy centers on <strong>clean code</strong>, <strong>rigoro
 </table>
 
 <!-- ⚜️ Royal Emerald Animated Divider -->
-<img src="./emerald-divider.svg" width="100%" alt="Divider" />
+<img src="https://raw.githubusercontent.com/mahfuzhasan2700/mahfuzhasan2700/main/emerald-divider.svg" width="100%" alt="Divider" />
 
 ---
 
@@ -239,7 +239,7 @@ My engineering philosophy centers on <strong>clean code</strong>, <strong>rigoro
 </table>
 
 <!-- ⚜️ Royal Emerald Animated Divider -->
-<img src="./emerald-divider.svg" width="100%" alt="Divider" />
+<img src="https://raw.githubusercontent.com/mahfuzhasan2700/mahfuzhasan2700/main/emerald-divider.svg" width="100%" alt="Divider" />
 
 ---
 
@@ -285,14 +285,14 @@ My engineering philosophy centers on <strong>clean code</strong>, <strong>rigoro
 </div>
 
 <!-- ⚜️ Royal Emerald Animated Divider -->
-<img src="./emerald-divider.svg" width="100%" alt="Divider" />
+<img src="https://raw.githubusercontent.com/mahfuzhasan2700/mahfuzhasan2700/main/emerald-divider.svg" width="100%" alt="Divider" />
 
 ---
 
 <!-- 💡 9. Animated Typewriter Motivational Quote -->
 <div align="center">
   <p><b>💭 Engineering Philosophy</b></p>
-  <a href="https://git.io/typing-svg">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1800&color=FFD700&background=022C22&center=true&vCenter=true&width=750&height=42&lines=%22Simplicity+is+the+soul+of+efficiency.%22+%E2%80%94+Austin+Freeman;%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.%22+%E2%80%94+Cory+House;%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+%E2%80%94+John+Johnson;%22Make+it+work%2C+make+it+right%2C+make+it+fast.%22+%E2%80%94+Kent+Beck" alt="Developer Quote Typing SVG" />
   </a>
 </div>
@@ -322,5 +322,5 @@ My engineering philosophy centers on <strong>clean code</strong>, <strong>rigoro
 
 <!-- 👑 10. Dedicated Animated Royal Emerald & Imperial Gold Footer Banner -->
 <div align="center">
-  <img src="./footer-banner.svg" width="100%" alt="Footer Wave Banner" />
+  <img src="https://raw.githubusercontent.com/mahfuzhasan2700/mahfuzhasan2700/main/footer-banner.svg" width="100%" alt="Footer Wave Banner" />
 </div>
