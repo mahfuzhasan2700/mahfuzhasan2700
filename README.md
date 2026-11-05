@@ -3,9 +3,9 @@
   <!-- ✦ 1. Claude-Inspired Dynamic Motion Hero Banner -->
   <img src="https://raw.githubusercontent.com/mahfuzhasan2700/mahfuzhasan2700/main/header-banner.svg" width="100%" alt="Mahfuz Hasan - Claude Editorial Dynamic Hero Banner" />
 
-  <!-- ⌨️ 2. Dynamic Terminal Typing SVG (Warm Terracotta & Obsidian Palette) -->
+  <!-- ⌨️ 2. Dynamic Terminal Typing SVG (Transparent Background, High Contrast Terracotta) -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=F4A261&background=121318&center=true&vCenter=true&width=750&height=52&lines=const+architect+%3D+%22Mahfuz+Hasan%22%3B;%E2%9C%A6+Full-Stack+Architect+%7C+Next.js+16+%26+React+19+Specialist;%E2%9A%A1+StudioSpace%3A+Production-Grade+Creative+Marketplace;%F0%9F%9B%92+Bazar-Dor%3A+Commodity+Price+Intelligence+Platform;%F0%9F%A7%A0+Perseus_AI%3A+Autonomous+Agent+Workflows+%26+Tooling;%E2%9C%A8+Engineering+Sub-Second+Performance+%26+Clean+Architecture" alt="Typing SVG Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=D97757&center=true&vCenter=true&width=750&height=46&lines=const+architect+%3D+%22Mahfuz+Hasan%22%3B;%E2%9C%A6+Full-Stack+Architect+%7C+Next.js+16+%26+React+19+Specialist;%E2%9A%A1+StudioSpace%3A+Production-Grade+Creative+Marketplace;%F0%9F%9B%92+Bazar-Dor%3A+Commodity+Price+Intelligence+Platform;%F0%9F%A7%A0+Perseus_AI%3A+Autonomous+Agent+Workflows+%26+Tooling;%E2%9C%A8+Engineering+Sub-Second+Performance+%26+Clean+Architecture" alt="Typing SVG Animation" />
   </a>
 
   <!-- 🏷️ 3. Editorial Metrics & Status Pills -->
@@ -62,209 +62,148 @@ My engineering philosophy is rooted in <strong>Claude-inspired editorial minimal
 ## 🏛️ Flagship Engineering Projects
 
 <table width="100%">
-  <thead>
-    <tr align="left">
-      <th width="30%">Platform &amp; Architectural Scope</th>
-      <th width="26%">Technology Stack</th>
-      <th width="28%">System Highlights &amp; Features</th>
-      <th width="16%" align="center">Deployments</th>
-    </tr>
-  </thead>
-  <tbody>
-    <!-- Project 1: StudioSpace -->
-    <tr>
-      <td valign="top">
-        <a href="https://studiospace-client-eight.vercel.app" target="_blank">
-          <strong>🏢 StudioSpace</strong>
-        </a>
-        <br/>
-        <sub>Enterprise peer-to-peer creative production workspace marketplace. Creators inspect real-time hourly availability, reserve soundstages/suites, and complete bookings with zero concurrency conflicts.</sub>
-      </td>
-      <td valign="top">
-        <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js 16" />
-        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
-        <br/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-        <br/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-        <img src="https://img.shields.io/badge/BetterAuth-6366F1?style=flat-square" alt="BetterAuth" />
-      </td>
-      <td valign="top">
-        • Claude-inspired editorial UX<br/>
-        • Real-time slot locking &amp; anti-double-booking<br/>
-        • Role-Based Access (Host, Member, Admin)<br/>
-        • Multi-service architecture (Vercel Prod)
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://studiospace-client-eight.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/Live_App-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Live App" />
-        </a>
-        <br/><br/>
-        <a href="https://github.com/mahfuzhasan2700/studiospace-client">
-          <img src="https://img.shields.io/badge/Client_Repo-171922?style=for-the-badge&logo=github&logoColor=white" alt="Client Repo" />
-        </a>
-        <br/><br/>
-        <a href="https://github.com/mahfuzhasan2700/studiospace-server">
-          <img src="https://img.shields.io/badge/Server_Repo-171922?style=for-the-badge&logo=github&logoColor=white" alt="Server Repo" />
-        </a>
-      </td>
-    </tr>
-
-    <!-- Project 2: Bazar-Dor -->
-    <tr>
-      <td valign="top">
-        <a href="https://bazar-dor-perseus11.vercel.app/" target="_blank">
-          <strong>🛒 Bazar-Dor (বাজার দর)</strong>
-        </a>
-        <br/>
-        <sub>Commodity price intelligence platform providing everyday market item rates, multi-market rate comparisons, and transparent price disparity tracking across city hubs.</sub>
-      </td>
-      <td valign="top">
-        <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js 16" />
-        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
-        <br/>
-        <img src="https://img.shields.io/badge/Tailwind_v4-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind v4" />
-        <img src="https://img.shields.io/badge/DaisyUI_5-5A0EF8?style=flat-square&logo=daisyui&logoColor=white" alt="DaisyUI" />
-        <br/>
-        <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-        <img src="https://img.shields.io/badge/BetterAuth-6366F1?style=flat-square" alt="BetterAuth" />
-      </td>
-      <td valign="top">
-        • Daily verified commodity tracking<br/>
-        • Cross-bazar rate variance analytics<br/>
-        • Multi-provider OAuth (Google, GitHub, Email)<br/>
-        • Clean responsive UI in Bangla &amp; English
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://bazar-dor-perseus11.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_App-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-        </a>
-        <br/><br/>
-        <a href="https://github.com/mahfuzhasan2700/Bazar-Dor">
-          <img src="https://img.shields.io/badge/View_Repo-171922?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
-        </a>
-      </td>
-    </tr>
-
-    <!-- Project 3: Fit-Log -->
-    <tr>
-      <td valign="top">
-        <a href="https://fitlog-workouts.netlify.app/" target="_blank">
-          <strong>⚡ Fit-Log Workout Analytics</strong>
-        </a>
-        <br/>
-        <sub>High-performance workout logging and habit engineering engine built with strict TypeScript types, 5-lift daily caps, live training metrics, and milestone celebration cues.</sub>
-      </td>
-      <td valign="top">
-        <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js 16" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <br/>
-        <img src="https://img.shields.io/badge/Tailwind_v4-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind v4" />
-        <img src="https://img.shields.io/badge/Canvas_Confetti-EA4C89?style=flat-square" alt="Confetti" />
-      </td>
-      <td valign="top">
-        • Strict type-safe modular state<br/>
-        • Five-lift daily focused routine engine<br/>
-        • Real-time calorie and volume calculations<br/>
-        • Zero-lag client-side persistence
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://fitlog-workouts.netlify.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_App-00AD9F?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
-        </a>
-        <br/><br/>
-        <a href="https://github.com/mahfuzhasan2700/Assignment-6">
-          <img src="https://img.shields.io/badge/View_Repo-171922?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
-        </a>
-      </td>
-    </tr>
-
-    <!-- Project 4: Perseus_AI -->
-    <tr>
-      <td valign="top">
-        <a href="https://github.com/mahfuzhasan2700/Perseus_AI">
-          <strong>🤖 Perseus_AI Agent Framework</strong>
-        </a>
-        <br/>
-        <sub>Intelligent automation framework and LLM agent orchestration harness designed for autonomous task decomposition, tool sandboxing, and workflow pipeline execution.</sub>
-      </td>
-      <td valign="top">
-        <img src="https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 3" />
-        <img src="https://img.shields.io/badge/AI_Agents-D97757?style=flat-square" alt="AI Agents" />
-        <br/>
-        <img src="https://img.shields.io/badge/Tool_Calling-F4A261?style=flat-square" alt="Tool Calling" />
-        <img src="https://img.shields.io/badge/Automation-10B981?style=flat-square" alt="Automation" />
-      </td>
-      <td valign="top">
-        • Autonomous goal-seeking agent loop<br/>
-        • Sandboxed external tool integration<br/>
-        • Multi-agent message routing<br/>
-        • Structured telemetry &amp; trace logs
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://github.com/mahfuzhasan2700/Perseus_AI">
-          <img src="https://img.shields.io/badge/View_Repo-171922?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
-        </a>
-      </td>
-    </tr>
-
-    <!-- Project 5: Artillery Laying Simulator -->
-    <tr>
-      <td valign="top">
-        <a href="https://github.com/mahfuzhasan2700/artillery-laying-simulator">
-          <strong>🎯 Artillery Laying Simulator</strong>
-        </a>
-        <br/>
-        <sub>Mathematical physics simulation engine rendering ballistic 2D projectile dynamics, trigonometric elevation angles, and aerodynamic drag vectors on an interactive 60FPS canvas.</sub>
-      </td>
-      <td valign="top">
-        <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
-        <br/>
-        <img src="https://img.shields.io/badge/HTML5_Canvas-E34F26?style=flat-square&logo=html5&logoColor=white" alt="Canvas" />
-        <img src="https://img.shields.io/badge/Trigonometry-6366F1?style=flat-square" alt="Math" />
-      </td>
-      <td valign="top">
-        • Classical Newtonian ballistics equations<br/>
-        • Real-time 60FPS vector trajectory paths<br/>
-        • Interactive barrel azimuth &amp; charge sliders<br/>
-        • Dynamic impact radius collision detection
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://github.com/mahfuzhasan2700/artillery-laying-simulator">
-          <img src="https://img.shields.io/badge/View_Repo-171922?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
-        </a>
-      </td>
-    </tr>
-
-    <!-- Project 6: Amar_Finance -->
-    <tr>
-      <td valign="top">
-        <a href="https://github.com/mahfuzhasan2700/Amar_Finance">
-          <strong>💰 Amar_Finance Ledger</strong>
-        </a>
-        <br/>
-        <sub>Real-time wealth tracking and cash-flow ledger engine designed for personal financial clarity, multi-account ledger balancing, and dynamic expense classification.</sub>
-      </td>
-      <td valign="top">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
-        <img src="https://img.shields.io/badge/CSS3_Modern-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-        <br/>
-        <img src="https://img.shields.io/badge/Financial_Engine-D97757?style=flat-square" alt="Finance" />
-      </td>
-      <td valign="top">
-        • Instant transactional reconciliation<br/>
-        • Cash inflow/outflow distribution curves<br/>
-        • Zero-latency reactive calculations<br/>
-        • Resilient localStorage persistence
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://github.com/mahfuzhasan2700/Amar_Finance">
-          <img src="https://img.shields.io/badge/View_Repo-171922?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
-        </a>
-      </td>
-    </tr>
-  </tbody>
+<thead>
+<tr align="left">
+<th width="30%">Platform &amp; Architectural Scope</th>
+<th width="26%">Technology Stack</th>
+<th width="28%">System Highlights &amp; Features</th>
+<th width="16%" align="center">Deployments</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top">
+<a href="https://studiospace-client-eight.vercel.app" target="_blank"><strong>🏢 StudioSpace</strong></a><br/>
+<sub>Enterprise peer-to-peer creative production workspace marketplace. Creators inspect real-time hourly availability, reserve soundstages/suites, and complete bookings with zero concurrency conflicts.</sub>
+</td>
+<td valign="top">
+<img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js 16" />
+<img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" /><br/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" /><br/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/BetterAuth-6366F1?style=flat-square" alt="BetterAuth" />
+</td>
+<td valign="top">
+• Claude-inspired editorial UX<br/>
+• Real-time slot locking &amp; anti-double-booking<br/>
+• Role-Based Access (Host, Member, Admin)<br/>
+• Multi-service architecture (Vercel Prod)
+</td>
+<td align="center" valign="middle">
+<a href="https://studiospace-client-eight.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_App-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Live App" /></a><br/><br/>
+<a href="https://github.com/mahfuzhasan2700/studiospace-client"><img src="https://img.shields.io/badge/Client_Repo-171922?style=for-the-badge&logo=github&logoColor=white" alt="Client Repo" /></a><br/><br/>
+<a href="https://github.com/mahfuzhasan2700/studiospace-server"><img src="https://img.shields.io/badge/Server_Repo-171922?style=for-the-badge&logo=github&logoColor=white" alt="Server Repo" /></a>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<a href="https://bazar-dor-perseus11.vercel.app/" target="_blank"><strong>🛒 Bazar-Dor (বাজার দর)</strong></a><br/>
+<sub>Commodity price intelligence platform providing everyday market item rates, multi-market rate comparisons, and transparent price disparity tracking across city hubs.</sub>
+</td>
+<td valign="top">
+<img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js 16" />
+<img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" /><br/>
+<img src="https://img.shields.io/badge/Tailwind_v4-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind v4" />
+<img src="https://img.shields.io/badge/DaisyUI_5-5A0EF8?style=flat-square&logo=daisyui&logoColor=white" alt="DaisyUI" /><br/>
+<img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/BetterAuth-6366F1?style=flat-square" alt="BetterAuth" />
+</td>
+<td valign="top">
+• Daily verified commodity tracking<br/>
+• Cross-bazar rate variance analytics<br/>
+• Multi-provider OAuth (Google, GitHub, Email)<br/>
+• Clean responsive UI in Bangla &amp; English
+</td>
+<td align="center" valign="middle">
+<a href="https://bazar-dor-perseus11.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_App-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a><br/><br/>
+<a href="https://github.com/mahfuzhasan2700/Bazar-Dor"><img src="https://img.shields.io/badge/View_Repo-171922?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<a href="https://fitlog-workouts.netlify.app/" target="_blank"><strong>⚡ Fit-Log Workout Analytics</strong></a><br/>
+<sub>High-performance workout logging and habit engineering engine built with strict TypeScript types, 5-lift daily caps, live training metrics, and milestone celebration cues.</sub>
+</td>
+<td valign="top">
+<img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js 16" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /><br/>
+<img src="https://img.shields.io/badge/Tailwind_v4-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind v4" />
+<img src="https://img.shields.io/badge/Canvas_Confetti-EA4C89?style=flat-square" alt="Confetti" />
+</td>
+<td valign="top">
+• Strict type-safe modular state<br/>
+• Five-lift daily focused routine engine<br/>
+• Real-time calorie and volume calculations<br/>
+• Zero-lag client-side persistence
+</td>
+<td align="center" valign="middle">
+<a href="https://fitlog-workouts.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Live_App-00AD9F?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" /></a><br/><br/>
+<a href="https://github.com/mahfuzhasan2700/Assignment-6"><img src="https://img.shields.io/badge/View_Repo-171922?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<a href="https://github.com/mahfuzhasan2700/Perseus_AI"><strong>🤖 Perseus_AI Agent Framework</strong></a><br/>
+<sub>Intelligent automation framework and LLM agent orchestration harness designed for autonomous task decomposition, tool sandboxing, and workflow pipeline execution.</sub>
+</td>
+<td valign="top">
+<img src="https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 3" />
+<img src="https://img.shields.io/badge/AI_Agents-D97757?style=flat-square" alt="AI Agents" /><br/>
+<img src="https://img.shields.io/badge/Tool_Calling-F4A261?style=flat-square" alt="Tool Calling" />
+<img src="https://img.shields.io/badge/Automation-10B981?style=flat-square" alt="Automation" />
+</td>
+<td valign="top">
+• Autonomous goal-seeking agent loop<br/>
+• Sandboxed external tool integration<br/>
+• Multi-agent message routing<br/>
+• Structured telemetry &amp; trace logs
+</td>
+<td align="center" valign="middle">
+<a href="https://github.com/mahfuzhasan2700/Perseus_AI"><img src="https://img.shields.io/badge/View_Repo-171922?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<a href="https://github.com/mahfuzhasan2700/artillery-laying-simulator"><strong>🎯 Artillery Laying Simulator</strong></a><br/>
+<sub>Mathematical physics simulation engine rendering ballistic 2D projectile dynamics, trigonometric elevation angles, and aerodynamic drag vectors on an interactive 60FPS canvas.</sub>
+</td>
+<td valign="top">
+<img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" /><br/>
+<img src="https://img.shields.io/badge/HTML5_Canvas-E34F26?style=flat-square&logo=html5&logoColor=white" alt="Canvas" />
+<img src="https://img.shields.io/badge/Trigonometry-6366F1?style=flat-square" alt="Math" />
+</td>
+<td valign="top">
+• Classical Newtonian ballistics equations<br/>
+• Real-time 60FPS vector trajectory paths<br/>
+• Interactive barrel azimuth &amp; charge sliders<br/>
+• Dynamic impact radius collision detection
+</td>
+<td align="center" valign="middle">
+<a href="https://github.com/mahfuzhasan2700/artillery-laying-simulator"><img src="https://img.shields.io/badge/View_Repo-171922?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<a href="https://github.com/mahfuzhasan2700/Amar_Finance"><strong>💰 Amar_Finance Ledger</strong></a><br/>
+<sub>Real-time wealth tracking and cash-flow ledger engine designed for personal financial clarity, multi-account ledger balancing, and dynamic expense classification.</sub>
+</td>
+<td valign="top">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+<img src="https://img.shields.io/badge/CSS3_Modern-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /><br/>
+<img src="https://img.shields.io/badge/Financial_Engine-D97757?style=flat-square" alt="Finance" />
+</td>
+<td valign="top">
+• Instant transactional reconciliation<br/>
+• Cash inflow/outflow distribution curves<br/>
+• Zero-latency reactive calculations<br/>
+• Resilient localStorage persistence
+</td>
+<td align="center" valign="middle">
+<a href="https://github.com/mahfuzhasan2700/Amar_Finance"><img src="https://img.shields.io/badge/View_Repo-171922?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+</td>
+</tr>
+</tbody>
 </table>
 
 <!-- ✦ Claude Motion Terracotta Divider -->
@@ -272,7 +211,7 @@ My engineering philosophy is rooted in <strong>Claude-inspired editorial minimal
 
 ---
 
-## 🛠️ Technical Arsenal & Ecosystem
+## 🛠️ Technical Arsenal &amp; Ecosystem
 
 <div align="center">
   <p><b>✦ Interactive Technical Matrix</b></p>
@@ -284,44 +223,44 @@ My engineering philosophy is rooted in <strong>Claude-inspired editorial minimal
 <br/>
 
 <table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">💻 Languages &amp; Core Runtimes</h3>
-      <p align="left">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-      </p>
-      <h3 align="left">🌐 Frontend Architecture &amp; UI Systems</h3>
-      <p align="left">
-        <img src="https://img.shields.io/badge/Next.js_16_App_Router-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-        <img src="https://img.shields.io/badge/DaisyUI_5-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">⚙️ Backend, Auth &amp; Databases</h3>
-      <p align="left">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-        <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-        <img src="https://img.shields.io/badge/BetterAuth-6366F1?style=for-the-badge&logo=auth0&logoColor=white" alt="BetterAuth" />
-        <img src="https://img.shields.io/badge/Zod_Validation-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
-      </p>
-      <h3 align="left">🧰 DevOps, Cloud &amp; Tooling</h3>
-      <p align="left">
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+<h3 align="left">💻 Languages &amp; Core Runtimes</h3>
+<p align="left">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+<h3 align="left">🌐 Frontend Architecture &amp; UI Systems</h3>
+<p align="left">
+<img src="https://img.shields.io/badge/Next.js_16_App_Router-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/DaisyUI_5-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="left">⚙️ Backend, Auth &amp; Databases</h3>
+<p align="left">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+<img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/BetterAuth-6366F1?style=for-the-badge&logo=auth0&logoColor=white" alt="BetterAuth" />
+<img src="https://img.shields.io/badge/Zod_Validation-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
+</p>
+<h3 align="left">🧰 DevOps, Cloud &amp; Tooling</h3>
+<p align="left">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
+</td>
+</tr>
 </table>
 
 <!-- ✦ Claude Motion Terracotta Divider -->
@@ -329,7 +268,7 @@ My engineering philosophy is rooted in <strong>Claude-inspired editorial minimal
 
 ---
 
-## 📊 Live GitHub Performance & Velocity
+## 📊 Live GitHub Performance &amp; Velocity
 
 <div align="center">
 
@@ -375,11 +314,11 @@ My engineering philosophy is rooted in <strong>Claude-inspired editorial minimal
 
 ---
 
-<!-- 💭 Dynamic Quote -->
+<!-- 💭 Dynamic Quote (Transparent Background) -->
 <div align="center">
   <p><b>💭 Engineering Philosophy</b></p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=2000&color=F4A261&background=121318&center=true&vCenter=true&width=780&height=44&lines=%22Simplicity+is+prerequisite+for+reliability.%22+%E2%80%94+Edsger+W.+Dijkstra;%22Perfection+is+achieved+when+there+is+nothing+left+to+take+away.%22+%E2%80%94+Saint-Exup%C3%A9ry;%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+%E2%80%94+John+Johnson;%22Make+it+work%2C+make+it+right%2C+make+it+fast.%22+%E2%80%94+Kent+Beck" alt="Developer Quote Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=2000&color=D97757&center=true&vCenter=true&width=780&height=38&lines=%22Simplicity+is+prerequisite+for+reliability.%22+%E2%80%94+Edsger+W.+Dijkstra;%22Perfection+is+achieved+when+there+is+nothing+left+to+take+away.%22+%E2%80%94+Saint-Exup%C3%A9ry;%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+%E2%80%94+John+Johnson;%22Make+it+work%2C+make+it+right%2C+make+it+fast.%22+%E2%80%94+Kent+Beck" alt="Developer Quote Typing SVG" />
   </a>
 </div>
 
