@@ -1,103 +1,181 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="100%" height="240">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 270" width="100%" height="270">
   <defs>
-    <!-- Royal Emerald Base Gradient -->
-    <linearGradient id="emeraldBase" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#011F18" />
-      <stop offset="30%" stop-color="#022C22" />
-      <stop offset="60%" stop-color="#064E3B" />
-      <stop offset="85%" stop-color="#047857" />
-      <stop offset="100%" stop-color="#011F18" />
+    <!-- Claude Obsidian & Warm Terracotta Dark Gradient -->
+    <linearGradient id="claudeBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0C0E" />
+      <stop offset="35%" stop-color="#121318" />
+      <stop offset="70%" stop-color="#171922" />
+      <stop offset="100%" stop-color="#0E1015" />
     </linearGradient>
 
-    <!-- Waving Layer 1 Gradient -->
-    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#047857" stop-opacity="0.6" />
-      <stop offset="50%" stop-color="#10B981" stop-opacity="0.4" />
-      <stop offset="100%" stop-color="#047857" stop-opacity="0.6" />
+    <!-- Warm Amber Terracotta Wave Gradient -->
+    <linearGradient id="warmWave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#D97757" stop-opacity="0.35" />
+      <stop offset="50%" stop-color="#F4A261" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#D97757" stop-opacity="0.35" />
     </linearGradient>
 
-    <!-- Waving Layer 2 Gradient (Gold Touch) -->
-    <linearGradient id="wave2" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#D4AF37" stop-opacity="0.3" />
-      <stop offset="50%" stop-color="#FFD700" stop-opacity="0.15" />
-      <stop offset="100%" stop-color="#D4AF37" stop-opacity="0.3" />
+    <!-- Subtle Slate Violet Accent Wave -->
+    <linearGradient id="warmWave2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E07A5F" stop-opacity="0.2" />
+      <stop offset="50%" stop-color="#D48872" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#E07A5F" stop-opacity="0.2" />
     </linearGradient>
 
-    <!-- Gold Text Glow Filter -->
-    <filter id="goldGlow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#FFD700" flood-opacity="0.45" />
-    </filter>
+    <!-- Ambient Radial Glows -->
+    <radialGradient id="topGlow" cx="85%" cy="20%" r="50%">
+      <stop offset="0%" stop-color="#D97757" stop-opacity="0.35" />
+      <stop offset="100%" stop-color="#0B0C0E" stop-opacity="0" />
+    </radialGradient>
 
-    <!-- Emerald Border Glow Filter -->
-    <filter id="emeraldGlow" x="-10%" y="-10%" width="120%" height="120%">
-      <feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#10B981" flood-opacity="0.6" />
+    <radialGradient id="leftGlow" cx="15%" cy="80%" r="45%">
+      <stop offset="0%" stop-color="#F4A261" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#0B0C0E" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Border Gradient -->
+    <linearGradient id="borderGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#D97757" stop-opacity="0.7" />
+      <stop offset="50%" stop-color="#2D313E" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#D97757" stop-opacity="0.5" />
+    </linearGradient>
+
+    <!-- Text Glow Filter -->
+    <filter id="amberGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="2" stdDeviation="5" flood-color="#D97757" flood-opacity="0.45" />
     </filter>
   </defs>
 
-  <!-- Solid Royal Emerald Background -->
-  <rect width="900" height="240" rx="14" fill="url(#emeraldBase)" />
+  <style>
+    .title-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-weight: 900;
+      font-size: 38px;
+      letter-spacing: 3px;
+      fill: #FAF8F5;
+    }
+    .badge-label {
+      font-family: 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 1.5px;
+      fill: #F4A261;
+      text-transform: uppercase;
+    }
+    .role-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-size: 14px;
+      font-weight: 600;
+      letter-spacing: 2.2px;
+      fill: #D48872;
+      text-transform: uppercase;
+    }
+    .desc-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-size: 13px;
+      font-weight: 400;
+      letter-spacing: 0.8px;
+      fill: #B8B5AD;
+    }
+    .pill-bg {
+      fill: #1E202A;
+      stroke: #D97757;
+      stroke-width: 1;
+      stroke-opacity: 0.5;
+    }
+    .pulse-dot {
+      animation: pulse 2s infinite ease-in-out;
+    }
+    @keyframes pulse {
+      0% { opacity: 0.4; r: 3.5; }
+      50% { opacity: 1; r: 5; }
+      100% { opacity: 0.4; r: 3.5; }
+    }
+  </style>
 
-  <!-- Outer Border in Imperial Gold -->
-  <rect width="896" height="236" x="2" y="2" rx="12" fill="none" stroke="#D4AF37" stroke-width="2" opacity="0.65" />
+  <!-- Canvas Background -->
+  <rect width="900" height="270" rx="16" fill="url(#claudeBg)" />
 
-  <!-- Animated Bottom Wave 1 -->
-  <path fill="url(#wave1)">
-    <animate attributeName="d" dur="10s" repeatCount="indefinite"
-      values="
-        M0,190 C180,225 360,165 540,200 C720,230 840,180 900,195 L900,240 L0,240 Z;
-        M0,205 C200,175 380,225 560,180 C740,165 820,215 900,200 L900,240 L0,240 Z;
-        M0,180 C160,215 340,190 520,220 C700,185 800,170 900,185 L900,240 L0,240 Z;
-        M0,190 C180,225 360,165 540,200 C720,230 840,180 900,195 L900,240 L0,240 Z
-      " />
-  </path>
+  <!-- Ambient Glow Overlays -->
+  <rect width="900" height="270" rx="16" fill="url(#topGlow)" />
+  <rect width="900" height="270" rx="16" fill="url(#leftGlow)" />
 
-  <!-- Animated Bottom Wave 2 (Imperial Gold Wave) -->
-  <path fill="url(#wave2)">
-    <animate attributeName="d" dur="14s" repeatCount="indefinite"
-      values="
-        M0,210 C220,180 400,230 600,195 C750,175 830,220 900,210 L900,240 L0,240 Z;
-        M0,195 C190,225 370,180 550,215 C710,230 820,185 900,200 L900,240 L0,240 Z;
-        M0,210 C220,180 400,230 600,195 C750,175 830,220 900,210 L900,240 L0,240 Z
-      " />
-  </path>
-
-  <!-- Decorative Corner Jewels (Imperial Gold) -->
-  <circle cx="20" cy="20" r="4" fill="#FFD700" opacity="0.8" />
-  <circle cx="880" cy="20" r="4" fill="#FFD700" opacity="0.8" />
-  <circle cx="20" cy="220" r="4" fill="#FFD700" opacity="0.8" />
-  <circle cx="880" cy="220" r="4" fill="#FFD700" opacity="0.8" />
-
-  <!-- Animated Star / Diamond Sparks -->
-  <g fill="#FFD700" opacity="0.75">
-    <polygon points="120,45 123,53 131,56 123,59 120,67 117,59 109,56 117,53">
-      <animate attributeName="opacity" values="0.3;1;0.3" dur="3s" repeatCount="indefinite" />
-    </polygon>
-    <polygon points="780,45 783,53 791,56 783,59 780,67 777,59 769,53 777,53">
-      <animate attributeName="opacity" values="1;0.3;1" dur="3.5s" repeatCount="indefinite" />
-    </polygon>
+  <!-- Subtle Architectural Grid Texture -->
+  <g opacity="0.08" stroke="#FFFFFF" stroke-width="0.8">
+    <line x1="50" y1="0" x2="50" y2="270" />
+    <line x1="150" y1="0" x2="150" y2="270" />
+    <line x1="250" y1="0" x2="250" y2="270" />
+    <line x1="350" y1="0" x2="350" y2="270" />
+    <line x1="450" y1="0" x2="450" y2="270" />
+    <line x1="550" y1="0" x2="550" y2="270" />
+    <line x1="650" y1="0" x2="650" y2="270" />
+    <line x1="750" y1="0" x2="750" y2="270" />
+    <line x1="850" y1="0" x2="850" y2="270" />
+    <line x1="0" y1="60" x2="900" y2="60" />
+    <line x1="0" y1="130" x2="900" y2="130" />
+    <line x1="0" y1="200" x2="900" y2="200" />
   </g>
 
-  <!-- Primary Name: Mahfuz Hasan (High Contrast Imperial Gold) -->
-  <text x="50%" y="95" text-anchor="middle" 
-        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" 
-        font-weight="900" font-size="52" fill="#FFD700" letter-spacing="2" filter="url(#goldGlow)">
-    Mahfuz Hasan
+  <!-- Fluid Animated Bottom Waves -->
+  <path fill="url(#warmWave1)">
+    <animate attributeName="d" dur="12s" repeatCount="indefinite"
+      values="
+        M0,215 C180,245 360,195 540,225 C720,255 840,210 900,220 L900,270 L0,270 Z;
+        M0,230 C200,205 380,245 560,210 C740,195 820,235 900,225 L900,270 L0,270 Z;
+        M0,205 C160,235 340,215 520,240 C700,215 800,200 900,215 L900,270 L0,270 Z;
+        M0,215 C180,245 360,195 540,225 C720,255 840,210 900,220 L900,270 L0,270 Z" />
+  </path>
+
+  <path fill="url(#warmWave2)">
+    <animate attributeName="d" dur="9s" repeatCount="indefinite"
+      values="
+        M0,235 C150,210 320,250 500,225 C680,205 810,245 900,235 L900,270 L0,270 Z;
+        M0,220 C180,255 350,220 530,245 C710,230 830,210 900,225 L900,270 L0,270 Z;
+        M0,240 C140,220 310,240 480,215 C660,245 800,220 900,235 L900,270 L0,270 Z;
+        M0,235 C150,210 320,250 500,225 C680,205 810,245 900,235 L900,270 L0,270 Z" />
+  </path>
+
+  <!-- Editorial Card Border -->
+  <rect width="896" height="266" x="2" y="2" rx="14" fill="none" stroke="url(#borderGradient)" stroke-width="1.8" />
+
+  <!-- Top Pill / Badge -->
+  <g transform="translate(50, 36)">
+    <rect width="365" height="26" rx="13" class="pill-bg" />
+    <circle cx="16" cy="13" r="4" fill="#D97757" class="pulse-dot" />
+    <text x="28" y="17" class="badge-label">CLAUDE EDITORIAL • FULL-STACK ARCHITECT</text>
+  </g>
+
+  <!-- Main Headline -->
+  <text x="50" y="112" class="title-text" filter="url(#amberGlow)">MAHFUZ HASAN</text>
+
+  <!-- Role Subtitle -->
+  <text x="50" y="145" class="role-text">
+    NEXT.JS 16 APP ROUTER <tspan fill="#F4A261">✦</tspan> TYPESCRIPT <tspan fill="#F4A261">✦</tspan> DISTRIBUTED SYSTEMS
   </text>
 
-  <!-- Subtitle: Full-Stack Software Engineer (High Contrast Crisp Mint White) -->
-  <text x="50%" y="145" text-anchor="middle" 
-        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" 
-        font-weight="600" font-size="18" fill="#ECFDF5" letter-spacing="2">
-    ✨ FULL-STACK SOFTWARE ENGINEER | FRONTEND ARCHITECT | AI BUILDER ✨
+  <!-- Narrative Line -->
+  <text x="50" y="180" class="desc-text">
+    Engineering production-grade platforms with sub-second performance, resilient APIs, and AI agent automation.
   </text>
 
-  <!-- Tag Pill in Royal Gold & Emerald -->
-  <g transform="translate(305, 170)">
-    <rect width="290" height="28" rx="14" fill="#022C22" stroke="#D4AF37" stroke-width="1.2" opacity="0.9" />
-    <text x="145" y="19" text-anchor="middle" 
-          font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" 
-          font-weight="700" font-size="12" fill="#FFD700" letter-spacing="1.5">
-      👑 ROYAL EMERALD ARCHITECTURE 👑
-    </text>
+  <!-- Floating Quick Status Indicator (Right aligned) -->
+  <g transform="translate(640, 42)">
+    <rect width="210" height="42" rx="10" fill="#151720" stroke="#2D313E" stroke-width="1" />
+    <circle cx="20" cy="21" r="5" fill="#10B981" />
+    <text x="34" y="19" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" font-weight="700" fill="#ECEAE5">SYSTEMS STATUS</text>
+    <text x="34" y="32" font-family="'Fira Code', monospace" font-size="10" fill="#10B981">● ACTIVE &amp; DISPATCHING</text>
+  </g>
+
+  <!-- Key Metrics Pills (Bottom Right) -->
+  <g transform="translate(570, 115)">
+    <!-- Metric 1 -->
+    <rect width="135" height="52" rx="10" fill="#13151D" stroke="#D97757" stroke-opacity="0.3" stroke-width="1" />
+    <text x="14" y="24" font-family="'Fira Code', monospace" font-size="10" fill="#B8B5AD">DEPLOYMENTS</text>
+    <text x="14" y="44" font-family="-apple-system, sans-serif" font-size="16" font-weight="800" fill="#FAF8F5">VERCEL PROD</text>
+
+    <!-- Metric 2 -->
+    <rect x="145" width="135" height="52" rx="10" fill="#13151D" stroke="#D97757" stroke-opacity="0.3" stroke-width="1" />
+    <text x="159" y="24" font-family="'Fira Code', monospace" font-size="10" fill="#B8B5AD">STACK LATENCY</text>
+    <text x="159" y="44" font-family="-apple-system, sans-serif" font-size="16" font-weight="800" fill="#F4A261">&lt; 120ms P95</text>
   </g>
 </svg>

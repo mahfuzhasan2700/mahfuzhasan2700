@@ -1,47 +1,52 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 130" width="100%" height="130">
   <defs>
-    <!-- Royal Emerald Base Gradient -->
-    <linearGradient id="footerEmerald" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#011F18" />
-      <stop offset="30%" stop-color="#022C22" />
-      <stop offset="60%" stop-color="#064E3B" />
-      <stop offset="85%" stop-color="#047857" />
-      <stop offset="100%" stop-color="#011F18" />
+    <!-- Claude Obsidian Dark Gradient -->
+    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0C0E" />
+      <stop offset="40%" stop-color="#121318" />
+      <stop offset="80%" stop-color="#171922" />
+      <stop offset="100%" stop-color="#0E1015" />
     </linearGradient>
 
-    <!-- Top Wave Gradient -->
-    <linearGradient id="footerWave" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#047857" stop-opacity="0.6" />
-      <stop offset="50%" stop-color="#10B981" stop-opacity="0.4" />
-      <stop offset="100%" stop-color="#047857" stop-opacity="0.6" />
+    <!-- Top Wave Gradient (Warm Terracotta / Coral) -->
+    <linearGradient id="footerWaveWarm" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#D97757" stop-opacity="0.35" />
+      <stop offset="50%" stop-color="#F4A261" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#D97757" stop-opacity="0.35" />
+    </linearGradient>
+
+    <!-- Border Gradient -->
+    <linearGradient id="footerBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#D97757" stop-opacity="0.6" />
+      <stop offset="50%" stop-color="#2D313E" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#D97757" stop-opacity="0.6" />
     </linearGradient>
   </defs>
 
-  <!-- Solid Royal Emerald Background -->
-  <rect width="900" height="130" rx="12" fill="url(#footerEmerald)" />
-
-  <!-- Outer Border in Imperial Gold -->
-  <rect width="896" height="126" x="2" y="2" rx="10" fill="none" stroke="#D4AF37" stroke-width="1.5" opacity="0.6" />
+  <!-- Background -->
+  <rect width="900" height="130" rx="14" fill="url(#footerBg)" />
 
   <!-- Animated Top Wave -->
-  <path fill="url(#footerWave)">
-    <animate attributeName="d" dur="10s" repeatCount="indefinite"
+  <path fill="url(#footerWaveWarm)">
+    <animate attributeName="d" dur="11s" repeatCount="indefinite"
       values="
-        M0,0 L900,0 L900,35 C750,15 600,45 450,25 C300,5 150,40 0,20 Z;
-        M0,0 L900,0 L900,20 C720,40 580,10 430,30 C280,45 140,15 0,35 Z;
-        M0,0 L900,0 L900,35 C750,15 600,45 450,25 C300,5 150,40 0,20 Z
-      " />
+        M0,0 L900,0 L900,32 C750,12 600,42 450,22 C300,5 150,38 0,18 Z;
+        M0,0 L900,0 L900,18 C720,38 580,8 430,28 C280,42 140,12 0,32 Z;
+        M0,0 L900,0 L900,32 C750,12 600,42 450,22 C300,5 150,38 0,18 Z" />
   </path>
 
-  <!-- Footer Signature & Quote in Gold & White -->
-  <text x="50%" y="72" text-anchor="middle" 
-        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" 
-        font-weight="800" font-size="20" fill="#FFD700" letter-spacing="1.5">
-    ⚜️ CRAFTED WITH PASSION, CODE &amp; ELEGANCE ⚜️
+  <!-- Outer Border -->
+  <rect width="896" height="126" x="2" y="2" rx="12" fill="none" stroke="url(#footerBorder)" stroke-width="1.5" />
+
+  <!-- Footer Signature in Claude Editorial Typography -->
+  <text x="50%" y="74" text-anchor="middle" 
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" 
+        font-weight="800" font-size="17" fill="#FAF8F5" letter-spacing="2">
+    ✦ CRAFTED WITH CLAUDE EDITORIAL ELEGANCE &amp; ARCHITECTURAL RIGOR ✦
   </text>
   <text x="50%" y="102" text-anchor="middle" 
-        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" 
-        font-weight="500" font-size="14" fill="#ECFDF5" letter-spacing="1">
-    Designed for Mahfuz Hasan • Happy Engineering! 🚀
+        font-family="'Fira Code', monospace" 
+        font-weight="500" font-size="12" fill="#D48872" letter-spacing="1">
+    Mahfuz Hasan • Next.js 16 • React 19 • TypeScript • Autonomous Agents
   </text>
 </svg>
